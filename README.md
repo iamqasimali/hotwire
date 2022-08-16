@@ -1,5 +1,8 @@
 # README
 
+[Turbo Rails](https://www.hotrails.dev/turbo-rails/turbo-rails-tutorial-introduction)
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -34,9 +37,6 @@ Install Turbo and Stimulus
  After you've successfully instatllation of all dependencies run the following command
    bin/setup
    bin/dev
-as you run the second command sever will run by useing foreman 
+as you run the second command sever will run by useing foreman.
 
 ```
-
-
-* ...
